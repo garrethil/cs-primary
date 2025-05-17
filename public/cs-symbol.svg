@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="43px" viewBox="0 0 29 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>cs-symbol-wht</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-63.000000, -59.000000)">
+        <g id="cs-symbol-wht" transform="translate(63.000000, 59.000000)" fill-rule="nonzero">
+            <path d="M21.4685294,11.0768 C21.4685294,7.8002 20.0355882,6.622 17.7667647,6.622 C15.4979412,6.622 14.065,7.8002 14.065,11.0768 L14.065,21.3968 L6.91735294,24.5014 L6.91735294,11.5326 C6.91735294,4.1968 10.5508824,0 17.5705882,0 C24.5902941,0 28.2323529,4.1968 28.2323529,11.5326 L28.2323529,15.3252 L21.4685294,18.232 L21.4685294,11.0768 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M6.77235294,31.4072 C6.77235294,34.6924 8.20529412,35.8706 10.4826471,35.8706 C12.76,35.8706 14.1929412,34.6924 14.1929412,31.4072 L14.1929412,21.3624 L21.3235294,18.2836 L21.3235294,30.96 C21.3235294,38.313 17.6729412,42.5184 10.6447059,42.5184 C3.61647059,42.5184 0,38.3044 0,30.96 L0,27.52 L6.77235294,24.6046 L6.77235294,31.4072 Z" id="Shape" fill="#FFCE44"></path>
+        </g>
+    </g>
+</svg>
